@@ -1,0 +1,12 @@
+html,
+bod {
+  padding: 20px;
+  background-color: grey;
+}
+
+h1 {
+  font-size: 1.5em;
+  color: #333;
+  text-align: center;
+  margin: 0;
+}
