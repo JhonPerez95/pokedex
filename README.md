@@ -23,4 +23,4 @@ docker-compose up -d
 # Stack usado
 
 - MongoBb
-- Nest
+- NestJS
