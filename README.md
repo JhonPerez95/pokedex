@@ -15,9 +15,15 @@ npm i -g @nestjs/cli
 
 4. Levantar la base de datos
 
-```1
+```
 docker-compose up -d
 
+```
+
+5. Recargar la base de datos
+
+```
+localhost:3000/api/v2/seed
 ```
 
 # Stack usado
