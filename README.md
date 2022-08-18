@@ -20,7 +20,17 @@ docker-compose up -d
 
 ```
 
-5. Recargar la base de datos
+5. Clonar el archivo **env.template** y renomar por **.env**
+
+6. Llenar las variables de entorno
+
+7. Ejecutar la aplicacion en dev
+
+```
+npm run start:dev
+```
+
+8. Recargar la base de datos
 
 ```
 localhost:3000/api/v2/seed
